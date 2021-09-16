@@ -1,0 +1,837 @@
+"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Immi- en emigratie; leeftijd (31 dec.), burgerlijke staat, geboorteland";"Immi- en emigratie; geboorteland";"03742";"Immi - en emigratie en administratieve correcties 
+naar geboorteland, leeftijd, geslacht en burgerlijke staat";"2021-07-14T02:00:00";"Actualisering";"";"nl";"CBS";"Perjaar";"1995 - 2020";"
+Deze tabel bevat cijfers over vestiging van personen vanuit het buitenland (immigratie) in Nederland en vertrek van personen vanuit Nederland naar het buitenland (emigratie) inclusief het saldo van de administratieve correcties. Cijfers over emigratie inclusief het saldo van de administratieve correcties geven een beter beeld van de werkelijke emigratie dan cijfers over emigratie exclusief deze correcties.
+De gegevens zijn uit te splitsen naar geslacht, leeftijd (op 31 december), burgerlijke staat en geboorteland.
+
+Gegevens beschikbaar vanaf: 1995
+
+Status van de cijfers:
+Alle in de tabel opgenomen cijfers zijn definitief.
+
+Wijzigingen per 14 juli 2021:
+Cijfers over 2020 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+In het 2e kwartaal 2022 worden de definitieve cijfers over 2021 in deze tabel opgenomen. 
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+1. TOELICHTING
+
+Deze tabel bevat cijfers over vestiging van personen vanuit het buitenland (immigratie) in Nederland en vertrek van personen vanuit Nederland naar het buitenland (emigratie) inclusief het saldo van de administratieve correcties. Cijfers over emigratie inclusief het saldo van de administratieve correcties geven een beter beeld van de werkelijke emigratie dan cijfers over emigratie exclusief deze correcties.
+De gegevens zijn uit te splitsen naar geslacht, leeftijd (op 31 december), burgerlijke staat en geboorteland.
+
+Gegevens beschikbaar vanaf: 1995
+
+Status van de cijfers:
+Alle in de tabel opgenomen cijfers zijn definitief.
+
+Wijzigingen per 14 juli 2021:
+Cijfers over 2020 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+In het 2e kwartaal 2022 worden de definitieve cijfers over 2021 in deze tabel opgenomen. 
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Administratieve afvoering
+Verwijdering van een persoon uit het gemeentelijke bevolkingsregister van een gemeente nadat de gemeente heeft vastgesteld dat de verblijfplaats van deze persoon niet bekend is, deze persoon niet bereikbaar is en waarschijnlijk geen inwoner meer is van een Nederlandse gemeente. Een administratieve afvoering is meestal het gevolg van het vertrek van een persoon naar het buitenland zonder dat deze de gemeente hiervan op de hoogte heeft gesteld.
+
+Administratieve correctie
+Administratieve opneming in of administratieve afvoering uit het bevolkingsregister.
+
+Administratieve opneming
+Opneming van een persoon in de bevolkingsregisters van een gemeente op verzoek van de betrokkene. Deze opneming is niet het gevolg van geboorte, immigratie of vestiging van die persoon vanuit een andere gemeente in Nederland. 
+Een administratieve opneming is meestal een hervestiging van een persoon die eerder administratief is afgevoerd en die verklaart nooit uit Nederland te zijn weggeweest.
+
+Burgerlijke staat
+Formele positie van een persoon waarbij wordt verwezen naar het huwelijk en het geregistreerd partnerschap.
+
+Emigratie
+Vertrek van personen naar het buitenland. 
+Men wordt uit het bevolkingsregister afgevoerd wanneer de verwachte verblijfsduur in het buitenland ten minste acht maanden bedraagt. 
+Het gaat hier steeds om de aan de gemeente gemelde emigratie.
+
+Geboorteland
+Het land waar een persoon geboren is.
+
+Immigratie
+Vestiging van personen vanuit het buitenland in Nederland. 
+Om als immigrant te kunnen worden geteld dienen deze personen ingeschreven te worden in de gemeentelijke bevolkingsregisters. Men wordt ingeschreven als men verwacht minimaal vier maanden in Nederland te blijven.
+
+Leeftijd op 31 december
+Het aantal gehele jaren dat op 31 december van het jaar van migratie is verstreken sinds de geboortedatum van de persoon. Te bereken als jaar van migratie min geboortejaar.
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Relevante tabellen:
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83474NED'>Bevolkingsontwikkeling; maand en jaar</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83518NED'>Immi- en emigratie; per maand, migratieachtergrond, geslacht</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37946ned'>Immi- en emigratie; nationaliteit, leeftijd (31 december) en geslacht</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/60032'>Migratie; land van herkomst/vestiging, geboorteland en geslacht</a>
+
+Relevante artikelen:
+<a href='https://www.cbs.nl/nl-nl/nieuws/2018/45/bevolkingsgroei-nederland-en-eu-vooral-door-migratie'>Bevolkingsgroei Nederland en EU vooral door migratie</a>
+<a href='https://www.cbs.nl/nl-nl/nieuws/2017/27/gezin-nog-steeds-belangrijkste-reden-voor-immigratie'>Gezin nog steeds belangrijkste reden voor immigratie</a>
+
+Meer informatie is te vinden op de themapagina <a href='https://www.cbs.nl/nl-nl/maatschappij/bevolking'>Bevolking</a>.
+
+4. BRONNEN EN METHODEN
+
+De beschrijving van het onderzoek is te vinden bij de <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/bevolkingsstatistiek'>Korte onderzoeksbeschrijving Bevolkingsstatistiek</a>.
+
+De gegevens in de tabel zijn vanaf 2014 samengesteld met behulp van het <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/stelsel-van-sociaal-statistische-bestanden--ssb--'>Stelsel van Sociaal-statistische Bestanden (SSB)</a>.
+
+Trendbreuk burgerlijke staat
+Vanaf 2010 is een kleine verschuiving tussen de verschillende burgerlijke staten opgetreden (minder ongehuwd en meer gehuwd, gescheiden en verweduwd). Dit komt omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt. De burgerlijke staten 'partnerschap', 'verweduwd na partnerschap' en 'gescheiden na partnerschap' worden daardoor binnen deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt wat in de meeste gevallen ongehuwd was. Vanaf 2010 zijn alle burgerlijke staten beschikbaar.
+
+Trendbreuk buitenlandse migratie
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+Door de verbetering in het productieproces is het saldo overige correcties sterk verminderd vanaf 2010.
+
+Trendbreuk nagekomen berichten
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/bevolkingsstatistiek'>Korte onderzoeksbeschrijving Bevolkingsstatistiek</a>.
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.";"ts=1625651566949&graphtype=Table&r=Geboorteland&k=Topics,Perioden&t=Geslacht,LeeftijdOp31December,BurgerlijkeStaat";"$filter=((Geslacht eq 'T001038')) and ((LeeftijdOp31December eq '10000')) and ((BurgerlijkeStaat eq 'T001019')) and ((Geboorteland eq 'T001175') or (Geboorteland eq 'G000001') or (Geboorteland eq 'G000002') or (Geboorteland eq 'G008519') or (Geboorteland eq 'G008520') or (Geboorteland eq 'G008524') or (Geboorteland eq 'G008525') or (Geboorteland eq 'G007936') or (Geboorteland eq 'G007937') or (Geboorteland eq 'G007935') or (Geboorteland eq 'G008531')) and ((Perioden eq '1995JJ00') or (Perioden eq '2000JJ00') or (Perioden eq '2005JJ00') or (Perioden eq '2010JJ00') or (Perioden eq '2015JJ00') or (Perioden eq '2020JJ00'))&$select=Geslacht, LeeftijdOp31December, BurgerlijkeStaat, Geboorteland, Perioden, Immigratie_1, EmigratieInclusiefAdministratieveC_2";"Table,Bar,Line";"Regulier";"CBS.";"2021-07-14T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"Geslacht";"Geslacht";;;;;;
+"1";"1";;"Dimension";"LeeftijdOp31December";"Leeftijd (op 31 december)";;;;;;
+"2";"2";;"Dimension";"BurgerlijkeStaat";"Burgerlijke staat";;;;;;
+"3";"3";;"Dimension";"Geboorteland";"Geboorteland";;;;;;
+"4";"4";;"TimeDimension";"Perioden";"Perioden";;"false";;;;
+"5";"5";;"Topic";"Immigratie_1";"Immigratie";"Vestiging van personen vanuit het buitenland in Nederland.
+Om als immigrant te kunnen worden geteld dienen deze personen ingeschreven te worden in de gemeentelijke bevolkingsregisters.
+Men wordt ingeschreven als men verwacht minimaal vier maanden Nederland te blijven.
+
+Trendbreuk buitenlandse migratie
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+Door de verbetering in het productieproces is het saldo overige correcties sterk verminderd vanaf 2010.
+
+Trendbreuk nagekomen berichten
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de Korte onderzoeksbeschrijving Bevolkingsstatistiek. Een link naar de Korte onderzoeksbeschrijving Bevolkingsstatistiek is te vinden in de Tabeltoelichting.";;"Long";"aantal";"0";"Impossible"
+"6";"6";;"Topic";"EmigratieInclusiefAdministratieveC_2";"Emigratie inclusief administratieve c...";"Emigratie inclusief het saldo van de administratieve correcties.
+Cijfers over emigratie inclusief het saldo van de administratieve correcties geven een beter beeld van de werkelijke emigratie dan cijfers over emigratie exclusief deze correcties.
+
+Trendbreuk buitenlandse migratie
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+Door de verbetering in het productieproces is het saldo overige correcties sterk verminderd vanaf 2010.
+
+Trendbreuk nagekomen berichten
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de Korte onderzoeksbeschrijving Bevolkingsstatistiek. Een link naar de Korte onderzoeksbeschrijving Bevolkingsstatistiek is te vinden in de Tabeltoelichting.
+
+Emigratie:
+Vertrek van personen naar het buitenland.
+Men wordt uit het bevolkingsregister afgevoerd wanneer de verwachte verblijfsduur in het buitenland ten minste acht maanden bedraagt. 
+Het gaat hier steeds om de aan de gemeente gemelde emigratie.
+
+Saldo administratieve correcties:
+Administratieve opnemingen in de gemeentelijke bevolkingsregister min de administratieve afvoeringen uit de gemeentelijke bevolkingsregisters.
+
+Administratieve opneming:
+Opneming van een persoon in het gemeentelijk bevolkingsregister van een gemeente op verzoek van de betrokkene. Deze opneming is niet het gevolg van geboorte, immigratie of vestiging van die persoon vanuit een andere gemeente in Nederland.
+Een administratieve opneming is meestal een hervestiging van een persoon die eerder administratief is afgevoerd en die verklaart nooit uit Nederland te zijn weggeweest.
+
+Administratieve afvoering:
+Verwijdering van een persoon uit het gemeentelijk bevolkingsregister van een gemeente nadat de gemeente heeft vastgesteld dat de verblijfplaats van deze persoon niet bekend is, deze persoon niet bereikbaar is en waarschijnlijk geen inwoner meer is van een Nederlandse gemeente.
+Een administratieve afvoering is meestal het gevolg van het vertrek van een persoon naar het buitenland zonder dat deze de gemeente hiervan op de hoogte heeft gesteld.";;"Long";"aantal";"0";"Impossible"
+"7";"7";;"Topic";"MigratiesaldoInclusiefAdministratie_3";"Migratiesaldo inclusief administratie...";"Migratiesaldo inclusief het saldo van de administratieve correcties.
+Cijfers over het migratiesaldo inclusief het saldo van de administratieve correcties geven een beter beeld van het werkelijke migratiesaldo dan cijfers over het migratiesaldo exclusief deze correcties.
+
+Trendbreuk buitenlandse migratie
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+Door de verbetering in het productieproces is het saldo overige correcties sterk verminderd vanaf 2010.
+
+Trendbreuk nagekomen berichten
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de Korte onderzoeksbeschrijving Bevolkingsstatistiek. Een link naar de Korte onderzoeksbeschrijving Bevolkingsstatistiek is te vinden in de Tabeltoelichting.
+
+Migratiesaldo:
+Personen die zich in Nederland vestigen min inwoners die Nederland verlaten om zich buiten Nederland te vestigen. 
+
+Saldo administratieve correcties:
+Administratieve opnemingen in de gemeentelijke bevolkingsregisters min de administratieve afvoeringen uit de gemeentelijke bevolkingsregisters.
+
+Administratieve opneming:
+Opneming van een persoon in het gemeentelijk bevolkingsregister van een gemeente op verzoek van de betrokkene. Deze opneming is niet het gevolg van geboorte, immigratie of vestiging van die persoon vanuit een andere gemeente in Nederland.
+Een administratieve opneming is meestal een hervestiging van een persoon die eerder administratief is afgevoerd en die verklaart nooit uit Nederland te zijn weggeweest.
+
+Administratieve afvoering:
+Verwijdering van een persoon uit het gemeentelijk bevolkingsregister van een gemeente nadat de gemeente heeft vastgesteld dat de verblijfplaats van deze persoon niet bekend is, deze persoon niet bereikbaar is en waarschijnlijk geen inwoner meer is van een Nederlandse gemeente.
+Een administratieve afvoering is meestal het gevolg van het vertrek van een persoon naar het buitenland zonder dat deze de gemeente hiervan op de hoogte heeft gesteld.";;"Long";"aantal";"0";"Impossible"
+"8";"8";;"Topic";"AdministratieveOpnemingen_4";"Administratieve opnemingen";"Administratieve opneming:
+Opneming van een persoon in het gemeentelijk bevolkingsregister van een gemeente op verzoek van de betrokkene. Deze opneming is niet het gevolg van geboorte, immigratie of vestiging van die persoon vanuit een andere gemeente in Nederland.
+Een administratieve opneming is meestal een hervestiging van een persoon die eerder administratief is afgevoerd en die verklaart nooit uit Nederland te zijn weggeweest.
+
+Trendbreuk buitenlandse migratie
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+Door de verbetering in het productieproces is het saldo overige correcties sterk verminderd vanaf 2010.
+
+Trendbreuk nagekomen berichten
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de Korte onderzoeksbeschrijving Bevolkingsstatistiek. Een link naar de Korte onderzoeksbeschrijving Bevolkingsstatistiek is te vinden in de Tabeltoelichting.";;"Long";"aantal";"0";"Impossible"
+"9";"9";;"Topic";"AdministratieveAfvoeringen_5";"Administratieve afvoeringen";"Administratieve afvoering:
+Verwijdering van een persoon uit het gemeentelijk bevolkingsregister van een gemeente nadat de gemeente heeft vastgesteld dat de verblijfplaats van deze persoon niet bekend is, deze persoon niet bereikbaar is en waarschijnlijk geen inwoner meer is van een Nederlandse gemeente.
+Een administratieve afvoering is meestal het gevolg van het vertrek van een persoon naar het buitenland zonder dat deze de gemeente hiervan op de hoogte heeft gesteld.
+
+Trendbreuk buitenlandse migratie
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+Door de verbetering in het productieproces is het saldo overige correcties sterk verminderd vanaf 2010.
+
+Trendbreuk nagekomen berichten
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de Korte onderzoeksbeschrijving Bevolkingsstatistiek. Een link naar de Korte onderzoeksbeschrijving Bevolkingsstatistiek is te vinden in de Tabeltoelichting.";;"Long";"aantal";"0";"Impossible"
+"10";"10";;"Topic";"SaldoAdministratieveCorrecties_6";"Saldo administratieve correcties";"Saldo administratieve correcties:
+Administratieve opnemingen in de gemeentelijke bevolkingsregisters min de administratieve afvoeringen uit de gemeentelijke bevolkingsregisters.
+
+Trendbreuk buitenlandse migratie
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+Door de verbetering in het productieproces is het saldo overige correcties sterk verminderd vanaf 2010.
+
+Trendbreuk nagekomen berichten
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de Korte onderzoeksbeschrijving Bevolkingsstatistiek. Een link naar de Korte onderzoeksbeschrijving Bevolkingsstatistiek is te vinden in de Tabeltoelichting.
+
+Administratieve opneming:
+Opneming van een persoon in het gemeentelijk bevolkingsregister van een gemeente op verzoek van de betrokkene. Deze opneming is niet het gevolg van geboorte, immigratie of vestiging van die persoon vanuit een andere gemeente in Nederland.
+Een administratieve opneming is meestal een hervestiging van een persoon die eerder administratief is afgevoerd en die verklaart nooit uit Nederland te zijn weggeweest.
+
+Administratieve afvoering:
+Verwijdering van een persoon uit het gemeentelijk bevolkingsregister van een gemeente nadat de gemeente heeft vastgesteld dat de verblijfplaats van deze persoon niet bekend is, deze persoon niet bereikbaar is en waarschijnlijk geen inwoner meer is van een Nederlandse gemeente.
+Een administratieve afvoering is meestal het gevolg van het vertrek van een persoon naar het buitenland zonder dat deze de gemeente hiervan op de hoogte heeft gesteld.";;"Long";"aantal";"0";"Impossible"
+"Geslacht"
+Key;Title;Description
+"T001038";"Totaal mannen en vrouwen";""
+"3000   ";"Mannen";""
+"4000   ";"Vrouwen";""
+"LeeftijdOp31December"
+Key;Title;Description
+"10000";"Totaal";""
+"10010";"0 jaar";""
+"10100";"1 jaar";""
+"10200";"2 jaar";""
+"10300";"3 jaar";""
+"10400";"4 jaar";""
+"10500";"5 jaar";""
+"10600";"6 jaar";""
+"10700";"7 jaar";""
+"10800";"8 jaar";""
+"10900";"9 jaar";""
+"11000";"10 jaar";""
+"11100";"11 jaar";""
+"11200";"12 jaar";""
+"11300";"13 jaar";""
+"11400";"14 jaar";""
+"11500";"15 jaar";""
+"11600";"16 jaar";""
+"11700";"17 jaar";""
+"11800";"18 jaar";""
+"11900";"19 jaar";""
+"12000";"20 jaar";""
+"12100";"21 jaar";""
+"12200";"22 jaar";""
+"12300";"23 jaar";""
+"12400";"24 jaar";""
+"12500";"25 jaar";""
+"12600";"26 jaar";""
+"12700";"27 jaar";""
+"12800";"28 jaar";""
+"12900";"29 jaar";""
+"13000";"30 jaar";""
+"13100";"31 jaar";""
+"13200";"32 jaar";""
+"13300";"33 jaar";""
+"13400";"34 jaar";""
+"13500";"35 jaar";""
+"13600";"36 jaar";""
+"13700";"37 jaar";""
+"13800";"38 jaar";""
+"13900";"39 jaar";""
+"14000";"40 jaar";""
+"14100";"41 jaar";""
+"14200";"42 jaar";""
+"14300";"43 jaar";""
+"14400";"44 jaar";""
+"14500";"45 jaar";""
+"14600";"46 jaar";""
+"14700";"47 jaar";""
+"14800";"48 jaar";""
+"14900";"49 jaar";""
+"15000";"50 jaar";""
+"15100";"51 jaar";""
+"15200";"52 jaar";""
+"15300";"53 jaar";""
+"15400";"54 jaar";""
+"15500";"55 jaar";""
+"15600";"56 jaar";""
+"15700";"57 jaar";""
+"15800";"58 jaar";""
+"15900";"59 jaar";""
+"16000";"60 jaar";""
+"16100";"61 jaar";""
+"16200";"62 jaar";""
+"16300";"63 jaar";""
+"16400";"64 jaar";""
+"16500";"65 jaar";""
+"16600";"66 jaar";""
+"16700";"67 jaar";""
+"16800";"68 jaar";""
+"16900";"69 jaar";""
+"17000";"70 jaar";""
+"17100";"71 jaar";""
+"17200";"72 jaar";""
+"17300";"73 jaar";""
+"17400";"74 jaar";""
+"17500";"75 jaar";""
+"17600";"76 jaar";""
+"17700";"77 jaar";""
+"17800";"78 jaar";""
+"17900";"79 jaar";""
+"18000";"80 jaar";""
+"18100";"81 jaar";""
+"18200";"82 jaar";""
+"18300";"83 jaar";""
+"18400";"84 jaar";""
+"18500";"85 jaar";""
+"18600";"86 jaar";""
+"18700";"87 jaar";""
+"18800";"88 jaar";""
+"18900";"89 jaar";""
+"19000";"90 jaar";""
+"19100";"91 jaar";""
+"19200";"92 jaar";""
+"19300";"93 jaar";""
+"19400";"94 jaar";""
+"19500";"95 jaar";""
+"19600";"96 jaar";""
+"19700";"97 jaar";""
+"19800";"98 jaar";""
+"19900";"99 jaar";""
+"19901";"100 jaar";""
+"19902";"101 jaar";""
+"19903";"102 jaar";""
+"19904";"103 jaar";""
+"19905";"104 jaar";""
+"22200";"100 jaar of ouder";
+"22300";"105 jaar of ouder";""
+"70100";"0 tot 5 jaar";""
+"70200";"5 tot 10 jaar";""
+"70300";"10 tot 15 jaar";""
+"70400";"15 tot 20 jaar";""
+"70500";"20 tot 25 jaar";""
+"70600";"25 tot 30 jaar";""
+"70700";"30 tot 35 jaar";""
+"70800";"35 tot 40 jaar";""
+"70900";"40 tot 45 jaar";""
+"71000";"45 tot 50 jaar";""
+"71100";"50 tot 55 jaar";""
+"71200";"55 tot 60 jaar";""
+"71300";"60 tot 65 jaar";""
+"71400";"65 tot 70 jaar";""
+"71500";"70 tot 75 jaar";""
+"71600";"75 tot 80 jaar";""
+"71700";"80 tot 85 jaar";""
+"71800";"85 tot 90 jaar";""
+"71900";"90 tot 95 jaar";""
+"72000";"95 tot 100 jaar";""
+"BurgerlijkeStaat"
+Key;Title;Description
+"T001019";"Totaal burgerlijke staat";""
+"1010   ";"Ongehuwd";"Burgerlijke staat die aangeeft dat een persoon nog nooit een huwelijk heeft gesloten of een geregistreerd partnerschap is aangegaan.
+
+Trendbreuk burgerlijke staat
+Vanaf 2010 is een kleine verschuiving tussen de verschillende burgerlijke staten opgetreden (minder ongehuwd en meer gehuwd, gescheiden en verweduwd). Dit komt omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt. De burgerlijke staten 'partnerschap', 'verweduwd na partnerschap' en 'gescheiden na
+partnerschap' worden daardoor binnen deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt wat in de meeste gevallen ongehuwd was.
+Vanaf 2010 zijn alle burgerlijke staten beschikbaar.
+
+Huwelijk:
+Wettelijke verbintenis tot het samenleven van twee personen.
+Sinds april 2001 staat het huwelijk ook open voor personen van hetzelfde geslacht.
+
+Geregistreerd partnerschap:
+Een op het huwelijk lijkende relatie tussen twee personen van gelijk of van verschillend geslacht, vastgelegd in een akte van de Burgerlijke Stand. 
+Per 1 januari 1998 is in Nederland het geregistreerd partnerschap ingevoerd."
+"1020   ";"Gehuwd";"Wettig gehuwd plus partnerschap.
+
+Trendbreuk burgerlijke staat
+Vanaf 2010 is een kleine verschuiving tussen de verschillende burgerlijke staten opgetreden (minder ongehuwd en meer gehuwd, gescheiden en verweduwd). Dit komt omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt. De burgerlijke staten 'partnerschap', 'verweduwd na partnerschap' en 'gescheiden na
+partnerschap' worden daardoor binnen deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt wat in de meeste gevallen ongehuwd was.
+Vanaf 2010 zijn alle burgerlijke staten beschikbaar.
+
+Wettig gehuwd:
+Burgerlijke staat die ontstaat na sluiting van een huwelijk. Inclusief personen die zijn gescheiden van tafel en bed, want zij blijven formeel gehuwd.
+
+Partnerschap:
+Burgerlijke staat die ontstaat na het aangaan van een geregistreerd partnerschap.
+"
+"1050   ";"Verweduwd";"Verweduwd na wettig huwelijk plus verweduwd na partnerschap.
+
+Trendbreuk burgerlijke staat
+Vanaf 2010 is een kleine verschuiving tussen de verschillende burgerlijke staten opgetreden (minder ongehuwd en meer gehuwd, gescheiden en verweduwd). Dit komt omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt. De burgerlijke staten 'partnerschap', 'verweduwd na partnerschap' en 'gescheiden na
+partnerschap' worden daardoor binnen deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt wat in de meeste gevallen ongehuwd was.
+Vanaf 2010 zijn alle burgerlijke staten beschikbaar.
+
+Verweduwd na wettig huwelijk:
+Burgerlijke staat die ontstaat na ontbinding van een wettig huwelijk door overlijden van de partner.
+
+Verweduwd na partnerschap:
+Burgerlijke staat die ontstaat na ontbinding van een geregistreerd partnerschap door overlijden van de partner."
+"1080   ";"Gescheiden";"Gescheiden na wettig huwelijk plus gescheiden na partnerschap.
+
+Trendbreuk burgerlijke staat
+Vanaf 2010 is een kleine verschuiving tussen de verschillende burgerlijke staten opgetreden (minder ongehuwd en meer gehuwd, gescheiden en verweduwd). Dit komt omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt. De burgerlijke staten 'partnerschap', 'verweduwd na partnerschap' en 'gescheiden na
+partnerschap' worden daardoor binnen deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt wat in de meeste gevallen ongehuwd was.
+Vanaf 2010 zijn alle burgerlijke staten beschikbaar.
+
+Gescheiden na wettig huwelijk:
+Burgerlijke staat die ontstaat na ontbinding van een wettig huwelijk door echtscheiding. 
+Exclusief personen die zijn gescheiden van tafel en bed, want zij blijven formeel gehuwd.
+
+Gescheiden na partnerschap:
+Burgerlijke staat die ontstaat na ontbinding van een geregistreerd partnerschap anders dan door het overlijden van de partner.
+
+"
+"Geboorteland"
+Key;Title;Description
+"T001175";"Totaal";""
+"G000001";"Westerse geboortelanden (incl Nederland)";"Westerse geboortelanden (inclusief Nederland) 
+ 
+Westerse landen: 
+Landen in Europa (exclusief Turkije), Noord-Amerika en Oceanië, en Indonesië en Japan."
+"G000002";"Niet-westerse geboortelanden";"Landen in Afrika, Latijns-Amerika en Azië (exclusief Indonesië en Japan) of Turkije."
+"G000003";"Geboorteland onbekend";""
+"G008519";"Afrika";""
+"G008520";"Amerika";""
+"G008524";"Azië";""
+"G008525";"Europa (inclusief Nederland)";""
+"G007936";"GIPS landen in de EU";"Landen rond de Middellandse zee die zijn toegetreden tot de Europese Unie. Toegetreden per 1 januari 1958: Italië. Toegetreden per 1 januari 1981: Griekenland. Toegetreden per 1 januari 1986: Portugal en Spanje."
+"G007937";"Midden- en Oost-Europese landen in de EU";"Landen in Midden- en Oost-Europa die zijn toegetreden tot de Europese Unie. Toegetreden per 1 mei 2004: Estland, Hongarije, Letland, Litouwen, Polen, Slovenië, Slowakije en Tsjechië. Toegetreden per 1 januari 2007: Bulgarije en Roemenië. Toegetreden per 1 juli 2013: Kroatië."
+"G007935";"Europese Unie (exclusief Nederland)";"Europese Unie: 
+Samenwerkingsverband tussen Europese lidstaten. 
+
+De Europese Unie bestaat uit de volgende landen: 
+Vanaf 1-1-1958: België, Bondsrepubliek Duitsland, Frankrijk, Italië, Luxemburg en Nederland. 
+Toegetreden op 1-1-1973: Denemarken, Ierland en Verenigd Koninkrijk. 
+Toegetreden op 1-1-1981: Griekenland.
+Toegetreden op 1-1-1986: Portugal en Spanje. 
+Toegetreden op 1-1-1995: Oostenrijk, Finland en Zweden. 
+Toegetreden op 1-5-2004: Cyprus, Estland, Hongarije, Letland, Litouwen, Malta, Polen, Slowakije, Slovenië en Tsjechië. 
+Toegetreden op 1-1-2007: Bulgarije, Roemenië. 
+Toegetreden op 1-7-2013: Kroatië.
+Verlaten op 31-1-2020: Verenigd Koninkrijk."
+"G008531";"Oceanië";""
+"G008532";"Antarctica";""
+"G008533";"Afghanistan";""
+"G008534";"Albanië";""
+"G008535";"Algerije";""
+"G008536";"Amerikaans Samoa";""
+"G008537";"Amerikaanse Maagdeneilanden";""
+"G008538";"Andorra";""
+"G008539";"Angola";"Angola, Cabinda, Portugees Afrika, Portugees West Afrika."
+"G008540";"Anguilla";""
+"G008541";"Antigua en Barbuda";"Antigua en Barbuda, Antigua."
+"G008542";"Argentinië";""
+"G008543";"Armenië";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991. Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008544";"Aruba";"Nieuw land ontstaan door afscheiding van de Nederlandse Antillen op 1 januari 1986. 
+Sinds die datum is Aruba een nieuw land binnen het Koninkrijk der Nederlanden. Met een 'Status aparte' binnen het Koninkrijk is Aruba een 
+autonoom land. Aruba heeft een zelfstandig bestuur en is niet meer afhankelijk van Nederland. 
+ 
+Omdat Aruba in de registers die het CBS gebruikt pas sinds deze afscheiding apart wordt onderscheiden kan het CBS in principe alleen personen die na de afscheiding zijn geboren tot dit geboorteland rekenen."
+"G008545";"Australië";"Australië, Christmaseiland, Cocoseilanden, Tasmanië."
+"G008546";"Azerbeidzjan";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991. 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008547";"Bahamas";""
+"G008548";"Bahrein";""
+"G008549";"Bangladesh";""
+"G008550";"Barbados";""
+"G008552";"België";""
+"G008553";"Belize";"Belize, Brits Honduras."
+"G008554";"Benin";"Benin, Dahomey."
+"G008555";"Bermuda";""
+"G006997";"Bhutan";""
+"G008557";"Bolivia";""
+"G008559";"Bosnië-Herzegovina";"Nieuw land ontstaan uit de opsplitsing van Joegoslavië in 1992. 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008560";"Botswana";"Botswana, Bechuanaland."
+"G008562";"Brazilië";""
+"G008564";"Brits Territorium in de Indische Oceaan";""
+"G008565";"Britse Maagdeneilanden";""
+"G008566";"Brunei";""
+"G008567";"Bulgarije";""
+"G008568";"Burkina Faso";"Burkina Faso, Bovenvolta."
+"G008569";"Burundi";"Burundi, Duits Oost Afrika, Oeroendi, Roeanda-Oeroendi."
+"G008570";"Cambodja";""
+"G008571";"Canada";"Canada, Newfoundland."
+"G008794";"Caribisch Nederland";"Nieuw land ontstaan uit de ontbinding van de Nederlandse Antillen per 10 oktober 2010. 
+Caribisch Nederland bestaat uit de openbare lichamen Bonaire, Sint Eustatius en Saba. Zij hebben een diepe band met Nederland en functioneren als bijzondere gemeente van Nederland. 
+Omdat Caribisch Nederland in de registers die het CBS gebruikt pas sinds deze ontbinding apart wordt onderscheiden kan het CBS in principe alleen personen die na de ontbinding zijn geboren tot dit geboorteland rekenen."
+"G008572";"Caymaneilanden";""
+"G008573";"Centraal-Afrikaanse Republiek";""
+"G008574";"Chili";""
+"G008575";"China";""
+"G008579";"Colombia";""
+"G008580";"Comoren";""
+"G008581";"Congo";"Frans Congo, Congo, Congo Brazzaville."
+"G008582";"Congo (Democratische Republiek)";"Belgisch Congo, Democratische Republiek Congo, Kongo Kinshasa, Zaïre."
+"G008583";"Cookeilanden";""
+"G008584";"Costa Rica";""
+"G008585";"Cuba";""
+"G008586";"Curaçao";"Nieuw land ontstaan na de ontbinding van de Nederlandse Antillen per 10 oktober 2010. Sinds die datum is Curaçao een nieuw land binnen het Koninkrijk der Nederlanden. Met een /""/Status aparte' binnen het Koninkrijk is Curaçao een autonoom land. Curaçao heeft een zelfstandig bestuur en is niet meer afhankelijk van Nederland. Omdat Curaçao in de registers die het CBS gebruikt pas sinds deze ontbinding als apart wordt onderscheiden kan het CBS in principe alleen personen die na de ontbinding zijn geboren tot dit geboorteland rekenen."
+"G008587";"Cyprus";""
+"G008588";"Denemarken";""
+"G008589";"Djibouti";"Djibouti, Frans Somaliland, Frans gebied Afars en Issa's."
+"G008590";"Dominica";""
+"G008591";"Dominicaanse Republiek";""
+"G008592";"Duitsland";"Bondsrepubliek Duitsland, Duitse Democratische Republiek, Duitsland (oud), Saarland."
+"G008593";"Ecuador";""
+"G008594";"Egypte";"Egypte, Verenigde Arabische Republiek."
+"G008595";"El Salvador";""
+"G008596";"Equatoriaal-Guinea";"Equatoriaal-guinee, Spaans Guinee."
+"G008597";"Eritrea";""
+"G008598";"Estland";"Onafhankelijk land van 1918-1940, viel na de Tweede Wereldoorlog tot 1991 onder de Sovjet-Unie en werd in 1991, na de opsplitsing van de Sovjet-Unie, opnieuw onafhankelijk. 
+ 
+Omdat dit land in de registers die het CBS gebruikt alleen kan worden onderscheiden tijdens de onafhankelijkheid (1918-1940 en sinds 1991) kan het CBS in principe alleen personen die in deze perioden zijn geboren tot dit geboorteland rekenen."
+"G008830";"Eswatini";"In deze tabel zijn de cijfers doorgevoerd vanaf 2019.
+
+Nieuw land ontstaan na de naamswijziging van Swaziland per 19 april 2018.
+Eswatini, Swaziland."
+"G008599";"Ethiopië";"Ethiopië, Abessinië."
+"G008600";"Faeröer-eilanden";""
+"G008601";"Falklandeilanden";""
+"G007071";"Federale Republiek Joegoslavië";"Nieuw land ontstaan uit de opsplitsing van Joegoslavië in 1991/'92 en opgehouden te bestaan na de naamswijziging in 2003. 
+Nieuwe naam: Servië en Montenegro. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing en tot de naamswijziging apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing en vóór de naamswijziging zijn geboren tot dit geboorteland rekenen."
+"G008602";"Fiji";""
+"G008603";"Filippijnen";""
+"G008604";"Finland";""
+"G008605";"Frankrijk";""
+"G008606";"Frans Guyana";""
+"G008608";"Frans-Polynesië";""
+"G008609";"Gabon";""
+"G008610";"Gambia";""
+"G008828";"Gazastrook en Westelijke Jordaanoever";"Gazastrook en Westelijke Jordaanoever met inbegrip van Oost-Jeruzalem."
+"G008611";"Georgië";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008612";"Ghana";"Ghana, Goudkust."
+"G008613";"Gibraltar";""
+"G008614";"Grenada";""
+"G008615";"Griekenland";""
+"G008616";"Groenland";""
+"G008617";"Guadeloupe";""
+"G008618";"Guam";""
+"G008619";"Guatemala";""
+"G008621";"Guinee";""
+"G008622";"Guinee-Bissau";"Guinee Bissau, Portugees Guinee."
+"G008623";"Guyana";"Guyana, Brits Guyana."
+"G008624";"Haïti";""
+"G008626";"Honduras";""
+"G008627";"Hongarije";""
+"G008628";"Hongkong";""
+"G008629";"Ierland";""
+"G008630";"IJsland";""
+"G008631";"India";"India, Brits Indië, Frans Indië, Goa, Kashmir, Portugees Indië, Sikkim."
+"G008632";"Indonesië";"Tot en met 20 mei 2002: Indonesië, Nederlands Indië, Nederlands Nieuw-Guinea en Portugees Timor. Vanaf 20 mei 2002: Indonesië, Nederlands Indië, Nederlands Nieuw-Guinea. Portugees Timor bestaat per 20 mei 2002 als zelfstandig land onder de naam Timor Leste."
+"G008633";"Irak";""
+"G008634";"Iran";""
+"G008635";"Israël";"Israël, Palestina."
+"G008636";"Italië";""
+"G008637";"Ivoorkust";""
+"G008638";"Jamaica";"Jamaica, Britse Antillen, Brits West-Indië, Windwardeilanden."
+"G008639";"Japan";"Japan, Ryukyueilanden."
+"G008640";"Jemen";"Jemen, Aden, Noordjemen, Zuid Arabische Federatie, Zuid-Jemen."
+"G007072";"Joegoslavië (oud)";"Betreft het Joegoslavië van vóór de opsplitsing in 1991/'92. 
+ 
+Omdat dit land in de registers die het CBS gebruikt na de opsplitsing officieel niet meer als actueel land kan voorkomen, kan het CBS in principe alleen personen die vóór de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G007069";"(voormalig) Joegoslavië";"Betreft een samentelling van de landen die tot het grondgebied van het Joegoslavië van vóór 1991/92 behoorden. 
+ 
+In 1991/'92 is Joegoslavië opgesplitst in de landen Bosnië-Herzegovina, Federale Republiek Joegoslavië, Kroatië, Macedonië en Slovenië. 
+In 2003 is de naam 'Federale Republiek Joegoslavië' gewijzigd in 'Servië en Montenegro'. 
+In 2006 is 'Servië en Montenegro' opgesplitst in 'Servië' respectievelijk 'Montenegro'. 
+In 2008 heeft Kosovo zich afgesplitst van Servië.
+Op 12 februari 2019 is de naam 'Macedonië' gewijzigd in 'Republiek Noord-Macedonië'."
+"G008643";"Jordanië";"Jordanië, Trans Jordanië."
+"G008644";"Kaapverdië";"Kaapverdië, Kaapverdische Eilanden."
+"G008645";"Kameroen";"Kameroen, Brits Kameroen, Frans Kameroen."
+"G008646";"Kanaaleilanden";""
+"G008647";"Katar";""
+"G008648";"Kazachstan";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008649";"Kenia";"Kenia, Brits Oost Afrika."
+"G008650";"Kirgizië";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008651";"Kiribati";"Kiribati, Canton en Enderbury, Gilberteilanden, Gilbert en Elice-Eilanden, Phoenixeilanden."
+"G008652";"Koeweit";""
+"G008653";"Kosovo";"Nieuw land ontstaan door afsplitsing van Servië in 2008. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze afsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de afsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008654";"Kroatië";"Nieuw land ontstaan uit de opsplitsing van Joegoslavië in 1991/'92. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008655";"Laos";""
+"G008656";"Lesotho";"Lesotho, Basoetoland."
+"G008657";"Letland";"Onafhankelijk land van 1918-1940, viel na de Tweede Wereldoorlog tot 1991 onder de Sovjet-Unie en werd in 1991, na de opsplitsing van de Sovjet-Unie, opnieuw onafhankelijk. 
+ 
+Omdat dit land in de registers die het CBS gebruikt alleen kan worden onderscheiden tijdens de onafhankelijkheid (1918-1940 en sinds 1991) kan het CBS in principe alleen personen die in deze perioden zijn geboren tot dit geboorteland rekenen."
+"G008658";"Libanon";""
+"G008659";"Liberia";""
+"G008660";"Libië";""
+"G008661";"Liechtenstein";""
+"G008662";"Litouwen";"Onafhankelijk land van 1918-1940, viel na de Tweede Wereldoorlog tot 1991 onder de Sovjet-Unie en werd in 1991, na de opsplitsing van de Sovjet-Unie, opnieuw onafhankelijk. 
+ 
+Omdat dit land in de registers die het CBS gebruikt alleen kan worden onderscheiden tijdens de onafhankelijkheid (1918-1940 en sinds 1991) kan het CBS in principe alleen personen die in deze perioden zijn geboren tot dit geboorteland rekenen."
+"G008663";"Luxemburg";""
+"G008664";"Macau";""
+"G008665";"Macedonië";"Nieuw land ontstaan uit de opsplitsing van Joegoslavië in 1991/'92 en opgehouden te bestaan na de naamswijziging naar Republiek Noord-Macedonië per 12 februari 2019.
+
+Omdat dit land in de registers die het CBS gebruikt pas sinds de opsplitsing en tot de naamswijziging apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing en vóór de naamswijziging zijn geboren tot dit geboorteland rekenen.
+"
+"G008666";"Madagaskar";""
+"G008667";"Malawi";"Malawi, Brits Afrika, Nyasaland."
+"G008668";"Maldiven";""
+"G008669";"Maleisië";"Maleisië, Brits Borneo, Brits Noord Borneo, Brits West Borneo, Johore, Kedah, Kelantan, Labuan, Malakka, Negri Sembilan, Pahang, Perak, Perlis, Sabah, Sarawak, Selangor, Straits Settlements, Trengganu."
+"G008670";"Mali";""
+"G008671";"Malta";""
+"G008672";"Man";""
+"G008673";"Marokko";"Marokko, Ifni, Spaanse Sahara, Westelijke Sahara."
+"G008675";"Marshall-eilanden";""
+"G008676";"Martinique";""
+"G008677";"Mauritanië";""
+"G008678";"Mauritius";""
+"G008679";"Mayotte";""
+"G008680";"Mexico";""
+"G008681";"Micronesië (Federale Staten)";"Pacific eilanden, Micronesia."
+"G008682";"Moldavië";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008683";"Monaco";""
+"G008684";"Mongolië";""
+"G008685";"Montenegro";"Nieuw land ontstaan uit de opsplitsing van Servië en Montenegro in 2006. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008686";"Montserrat";"Montserrat, Leeuwardeilanden."
+"G008687";"Mozambique";"Mozambique, Portugees Oost Afrika."
+"G008688";"Myanmar";"Myanmar, Burma."
+"G008689";"Namibië";"Namibië, Duits Zuidwest Afrika, Zuidwest Afrika."
+"G008690";"Nauru";""
+"G008691";"Nederland";""
+"G007128";"Nederlandse Antillen (oud)";"Betreft de Nederlandse Antillen van vóór 10 oktober 2010. 
+Het gaat om de eilanden Bonaire, Curaçao, Saba, Sint Eustatius en Sint Maarten. 
+ 
+Omdat de Nederlandse Antillen (oud) in de registers die het CBS gebruikt na de ontbinding officieel niet meer als actueel land kan voorkomen, kan het CBS in principe alleen personen die vóór de ontbinding zijn geboren tot dit geboorteland rekenen. 
+ 
+Vanaf 10 oktober 2010 zijn de Nederlandse Antillen ontbonden. 
+Het Koninkrijk der Nederlanden bestaat dan uit vier landen: Nederland, Aruba, Curaçao en Sint Maarten. Alle eilanden hebben een nieuwe status. Curaçao en Sint Maarten zijn nieuwe landen binnen het Koninkrijk. Met een 'Status aparte' binnen het Koninkrijk zijn Curaçao en Sint Maarten autonome landen. De landen hebben een zelfstandig bestuur en zijn niet meer afhankelijk van Nederland. 
+De openbare lichamen Bonaire, Sint Eustatius en Saba, ook wel Caribisch Nederland, hebben een diepere band met Nederland en functioneren als bijzondere gemeente van Nederland. 
+ 
+Op 1 januari 1986 werd Aruba afgescheiden van de Nederlandse Antillen. Sinds die datum is Aruba een autonoom land binnen het Koninkrijk der Nederlanden."
+"G007119";"(voormalige) Nederlandse Antillen, Aruba";"Betreft een samentelling van de eilanden die tot het grondgebied van de Nederlandse Antillen van vóór 10 oktober 2010 en Aruba behoorden. 
+Het gaat om de eilanden Bonaire, Curaçao, Saba, Sint-Eustatius, Sint-Maarten en Aruba. 
+ 
+Vanaf 10 oktober 2010 zijn de Nederlandse Antillen ontbonden. 
+Het Koninkrijk der Nederlanden bestaat dan uit vier landen: Nederland, Aruba, Curaçao en Sint Maarten. Alle eilanden hebben een nieuwe status. 
+Curaçao en Sint Maarten zijn nieuwe landen binnen het Koninkrijk. Met een /""/Status aparte' binnen het Koninkrijk zijn Curaçao en Sint Maarten autonome landen. De landen hebben een zelfstandig bestuur en zijn niet meer afhankelijk van Nederland. 
+De openbare lichamen Bonaire, Sint Eustatius en Saba, ook wel Caribisch Nederland, hebben een diepere band met Nederland en functioneren als bijzondere gemeente van Nederland. 
+ 
+Op 1 januari 1986 werd Aruba afgescheiden van de Nederlandse Antillen. 
+Sinds die datum is Aruba een nieuw land binnen het Koninkrijk de Nederlanden. Met een 'Status aparte' binnen het Koninkrijk is Aruba een autonoom land. Aruba heeft een zelfstandig bestuur en is niet meer afhankelijk van Nederland."
+"G008694";"Nepal";""
+"G008695";"Nicaragua";""
+"G008696";"Nieuw-Caledonië";""
+"G008697";"Nieuw-Zeeland";""
+"G008698";"Niger";""
+"G008699";"Nigeria";""
+"G008700";"Niue";""
+"G008702";"Noordelijke Marianen";""
+"G008703";"Noord-Korea";""
+"G008704";"Noorwegen";"Noorwegen, Spitsbergen, de Svalbardeilanden."
+"G008705";"Norfolk";""
+"G008706";"Oekraïne";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008707";"Oezbekistan";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008708";"Oman";"Oman, Muscat en Oman."
+"G008709";"Oostenrijk";"Oostenrijk, Oostenrijk-Hongarije."
+"G008710";"Pakistan";""
+"G008711";"Palau";"Republiek van Palau, Belau."
+"G008713";"Panama";"Panama, Panama Kanaalzone."
+"G008714";"Papoea-Nieuw-Guinea";"Papua-Nieuw-Guinea, Australisch Nieuw-Guinea, Australische Salomonseilanden, Kaiser Wilhelmsland."
+"G008715";"Paraguay";""
+"G008716";"Peru";""
+"G008717";"Pitcairneilanden";""
+"G008718";"Polen";"Polen en Dantzig."
+"G008719";"Portugal";"Portugal, Azoren, Madeira-eilanden."
+"G008720";"Puerto Rico";""
+"G008825";"Republiek Noord-Macedonië";"In deze tabel zijn de aantallen doorgevoerd voor hele jaar 2019.
+
+Nieuw land ontstaan na de naamswijziging van Macedonië per 12 februari 2019.
+
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze naamswijziging apart wordt onderscheiden (Macedonië sinds de opsplitsing van Joegoslavië in 1991/'92) kan het CBS in principe alleen personen die na de naamswijziging zijn geboren tot dit geboorteland rekenen."
+"G008722";"Réunion";""
+"G008723";"Roemenië";""
+"G008724";"Rusland";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991. Niet te verwarren met het oude Rusland dat een ander grondgebied bestrijkt. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008725";"Rusland (oud)";"Tot november 1917 de benaming van het grondgebied van de voormalige Sovjet-Unie. 
+ 
+Omdat dit land in de registers die het CBS gebruikt na deze naamswijziging officieel niet meer als actueel land kan voorkomen, kan het CBS in principe alleen personen die vóór de naamswijziging zijn geboren tot dit geboorteland rekenen."
+"G008726";"Rwanda";""
+"G008727";"Saint Kitts en Nevis";"Saint Kitts-Nevis, Saint Kitts-Nevis-Anguilla."
+"G008728";"Saint Pierre en Miquelon";""
+"G008729";"Saint-Vincent en de Grenadines";"Sint Vincent en de Grenadines, Sint Vincent."
+"G008730";"Salomonseilanden";"Salomoneilanden, Britse Salomonseilanden."
+"G008731";"Samoa";""
+"G008732";"San Marino";""
+"G008733";"Sao Tomé en Principe";""
+"G008734";"Saoedi-Arabië";""
+"G008735";"Senegal";"Senegal, Frans West Afrika."
+"G008736";"Servië";"Nieuw land ontstaan uit de opsplitsing van Servië en Montenegro in 2006. 
+ 
+In 2008 heeft Kosovo zich afgesplitst van Servië. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na deze opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008737";"Servië en Montenegro";"Nieuw land ontstaan door naamswijziging in 2003 (oude naam: Federale Republiek Joegoslavië) en opgehouden te bestaan na opsplitsing in /""/Servië/""/ respectievelijk /""/Montenegro/""/ in 2006. 
+De cijfers zijn inclusief Federale Republiek Joegoslavië. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze naamswijziging apart wordt onderscheiden (de Ferderale Republiek Joegoslavië sinds de opsplitsing van Joegoslavië in 1992) en na de opsplitsing in 2006 officieel niet meer als actueel land kan voorkomen, kan het CBS in principe alleen personen die na de naamswijziging respectievelijk vóór de opsplitsing, zijn geboren tot dit geboorteland rekenen."
+"G008738";"Seychellen";"Seychellen, Seychellen en Amiranten."
+"G008739";"Sierra Leone";""
+"G008740";"Singapore";""
+"G008741";"Sint Helena";"Ascension, Sint-Helena, Tristan Da Cunha."
+"G008742";"Sint Lucia";""
+"G008743";"Sint Maarten (Nederlands deel)";"Nieuw land ontstaan na de ontbinding van de Nederlandse Antillen per 10 oktober 2010. 
+Sinds die datum is Sint Maarten een nieuw land binnen het Koninkrijk der Nederlanden. Met een 'Status aparte' binnen het Koninkrijk is Sint Maarten een autonoom land. Sint Maarten heeft een zelfstandig bestuur en is niet meer afhankelijk van Nederland. 
+ 
+Omdat Sint Maarten in de registers die het CBS gebruikt pas sinds deze ontbinding apart wordt onderscheiden kan het CBS in principe alleen personen die na de ontbinding zijn geboren tot dit geboorteland rekenen."
+"G008744";"Slovenië";"Nieuw land ontstaan uit de opsplitsing van Joegoslavië in 1991. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008745";"Slowakije";"Nieuw land ontstaan uit de opsplitsing van Tsjecho-Slowakije in 1993. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008746";"Soedan";"Per 9 juli 2011 heeft Zuid-Soedan zich afgesplitst van Soedan."
+"G008747";"Somalië";"Somalië, Brits Somaliland, Italiaans Somaliland."
+"G007186";"Sovjet-Unie (oud)";"Betreft de Sovjet-Unie van vóór de opsplitsing in 1991. 
+ 
+Omdat dit land in de registers die het CBS gebruikt na de opsplitsing officieel niet meer als actueel land kan voorkomen, kan het CBS in principe alleen personen die vóór deze opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G007172";"(voormalige) Sovjet-Unie";"Betreft een samentelling van de landen die tot het grondgebied van de Sovjet-Unie van vóór 1991 behoorden. 
+In november 1917 is de naam van Rusland (oud) veranderd in Sovjet-Unie. 
+In 1991 is de Sovjet-Unie opgesplitst in de landen Armenië, Azerbeidzjan, Estland, Georgië, Kazachstan, Kirgizië, Letland, Litouwen, Moldavië, Oekraïne, Oezbekistan, Rusland, Tadzjikistan, Turkmenistan en Wit-Rusland."
+"G008749";"Spanje";"Spanje, Canarische eilanden, Spaans Noord-Afrika."
+"G008750";"Sri Lanka";"Sri Lanka, Ceylon."
+"G008751";"Suriname";""
+"G008752";"Swaziland";"Opgehouden te bestaan na de naamswijziging naar Eswatini per 19 april 2018."
+"G008753";"Syrië";""
+"G008754";"Tadzjikistan";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008755";"Taiwan";""
+"G008756";"Tanzania";"Tanzania, Tanganyika, Zanzibar."
+"G008757";"Thailand";"Thailand, Siam."
+"G008758";"Timor Leste";"Timor Leste, Portugees Timor. Timor Leste is per 20 mei 2002 als zelfstandig land ontstaan uit Portugees Timor."
+"G008759";"Togo";""
+"G008760";"Tokelau-eilanden";""
+"G008761";"Tonga";""
+"G008762";"Trinidad en Tobago";""
+"G008763";"Tsjaad";"Tsjaad, Frans Equatoriaal Afrika."
+"G008764";"Tsjechië";"Nieuw land ontstaan uit de opsplitsing van Tsjecho-Slowakije in 1993. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G007207";"Tsjecho-Slowakije (oud)";"Betreft het Tsjecho-Slowakije van vóór de opsplitsing in 1993. 
+ 
+Omdat dit land in de registers die het CBS gebruikt na de opsplitsing officieel niet meer als actueel land kan voorkomen, kan het CBS in principe alleen personen die vóór de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G007204";"(voormalig) Tsjecho-Slowakije";"Betreft een samentelling van de landen die tot het grondgebied van Tsjecho-Slowakije van vóór 1993 behoorden. In 1993 is Tsjecho-Slowakije opgesplitst in de landen Tsjechië en Slowakije."
+"G008765";"Tunesië";""
+"G008766";"Turkije";""
+"G008767";"Turkmenistan";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991. 
+Ook wel Belarus genoemd. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008768";"Turks- en Caicoseilanden";"Turks- en Caicoseilanden, Caicoseilanden, Turkseilanden."
+"G008769";"Tuvalu";""
+"G008770";"Uganda";""
+"G008771";"Uruguay";""
+"G008772";"Vanuatu";"Vanuatu, Nieuwe Hebriden."
+"G008773";"Vaticaanstad";""
+"G008774";"Venezuela";""
+"G008776";"Verenigd Koninkrijk";"Groot Brittannië."
+"G008777";"Verenigde Arabische Emiraten";"Verenigde Arabische Emiraten, Adjman, Aboe Dhabi, Doebai, Foedjaira, Ras-El-Cheima, Oem el Koewein, Sjardja, Trucial Oman."
+"G008778";"Verenigde Staten van Amerika";"Verenigde Staten van Amerika, Hawaii-eilanden."
+"G008779";"Verre eilanden van de VS";"Verre eilanden van de Verenigde Staten van Amerika: Johnston, Midway, Wake."
+"G008780";"Vietnam";"Viëtnam, Frans Indo China, Indo China, Noord-Viëtnam, Zuid-Viëtnam."
+"G008782";"Wallis en Futuna";""
+"G008783";"Wit-Rusland";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991. 
+Ook wel Belarus genoemd. 
+ 
+Omdat dit land in de registers die het CBS gebruikt pas sinds deze opsplitsing apart wordt onderscheiden kan het CBS in principe alleen personen die na de opsplitsing zijn geboren tot dit geboorteland rekenen."
+"G008784";"Zambia";"Zambia, Noordrhodesië."
+"G008785";"Zimbabwe";"Zimbabwe, Rhodesië, Zuidrhodesië."
+"G008787";"Zuid-Afrika, land";""
+"G008789";"Zuid-Korea";"Zuid-Korea, Korea."
+"G008786";"Zuid-Soedan";"Nieuw land ontstaan na afsplitsing van Soedan per 9 juli 2011."
+"G008790";"Zweden";""
+"G008791";"Zwitserland";""
+"Perioden"
+Key;Title;Description;Status
+"1995JJ00";"1995";;"Definitief"
+"1996JJ00";"1996";;"Definitief"
+"1997JJ00";"1997";;"Definitief"
+"1998JJ00";"1998";;"Definitief"
+"1999JJ00";"1999";;"Definitief"
+"2000JJ00";"2000";;"Definitief"
+"2001JJ00";"2001";;"Definitief"
+"2002JJ00";"2002";;"Definitief"
+"2003JJ00";"2003";;"Definitief"
+"2004JJ00";"2004";;"Definitief"
+"2005JJ00";"2005";;"Definitief"
+"2006JJ00";"2006";;"Definitief"
+"2007JJ00";"2007";;"Definitief"
+"2008JJ00";"2008";;"Definitief"
+"2009JJ00";"2009";;"Definitief"
+"2010JJ00";"2010";"";"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012JJ00";"2012";;"Definitief"
+"2013JJ00";"2013";;"Definitief"
+"2014JJ00";"2014";;"Definitief"
+"2015JJ00";"2015";;"Definitief"
+"2016JJ00";"2016";;"Definitief"
+"2017JJ00";"2017";;"Definitief"
+"2018JJ00";"2018";;"Definitief"
+"2019JJ00";"2019";;"Definitief"
+"2020JJ00";"2020";;"Definitief"
