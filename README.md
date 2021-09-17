@@ -79,7 +79,7 @@ Combining the data from the various years, certain countries multiple names:
 ### 3.1 Conceptual Data Model
 The final schema will be a star schema with a fact table and actually only one dimension table as in the ERD below. They are connected by the country. This model was chosen, because it is simple and suitable for the analytical purpose.
 
-![alt text](ERD_final.JPG "Title")
+![Alt text](ERD_final.jpg?raw=true "Title")
 
 ### 3.2 Mapping Out Data Pipelines
 The initial ERD looks like the ERD below:
