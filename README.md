@@ -84,7 +84,7 @@ The final schema will be a star schema with a fact table and actually only one d
 ### 3.2 Mapping Out Data Pipelines
 The initial ERD looks like the ERD below:
 
-![alt text](ERD_before.JPG "Title")
+![Alt text](ERD_before.jpg?raw=true "Title")
 
 ## Step 4: ETL pipeline
 To arrive at the final ERD the following steps are required:
