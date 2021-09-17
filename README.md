@@ -176,6 +176,7 @@ Dimension immigration table
 - In the folder "WorldHappinessReport": csv-files with the World Happiness Report data per year
 - In the folder "input_other": csv-file with the immigration meta data, csv-file with the translation information for country from Dutch to English
 - etl.py: file with the ETL pipeline
+- config.cfg: file in which to enter your AWS access key ID and secret access key
 - Capstone_Project_YL.ipynb: Jupyter notebook that was mainly used to assess the data and to test the cleaning that was all later compiled into the etl.py. The notebook is not needed to build the data model.
 - README.md: this readme file
 - The immigration json-files were too large to add to this repository. They can be downloaded from the website mentioned above.
