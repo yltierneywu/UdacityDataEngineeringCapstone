@@ -146,6 +146,7 @@ Landcountry table
 | --- | --- | --- | --- |
 | `Land_Dutch` | string | Country name or region in Dutch| Any |
 | `Country` | string | Country name or region in English | Any |
+| `SingleCountry` | string | Whether it is a single country (Y) or a region (N) | Y or N |
 
 <b> Final tables: </b>
 Fact immigration table
@@ -158,6 +159,7 @@ Fact immigration table
 | `Country` | string | Country of Birth of the immigrant | any | join between immigration data , MetaCountry and Landcountry |
 | `Period` | integer | Year in which the immigration took place | any, current input data from 2018- 2020  | join between immigration data and metaPeriod |
 | `ImmigrationVolume` | integer | Number of people immigrated | > 0 | immigration json-file |
+| `SingleCountry` | string | Whether it is a single country (Y) or a region (N) | Y or N | Landcountry table |
 
 Dimension immigration table
 | col | expected format | description | accepted range of values |
