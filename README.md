@@ -58,9 +58,9 @@ Combining the data from the various years, certain countries multiple names:
 ### Cleaning - df_meta_age:
 - Rename column 'Title' into 'Age'
 - Replace 'totaal' with 'total'
-- Replace 'jaar' with'years'
 - Replace 'of ouder' with 'or older'
 - Replace 'tot' with 'to'
+- Remove 'jaar (=year)' such that it can be converted into an integer
 
 ### Cleaning - df_meta_marital:
 - Rename column 'Title' into 'BurgerlijkeStaat'
@@ -154,7 +154,7 @@ Fact immigration table
 | --- | --- | --- | --- | --- |
 | `ID` | string | Identification number | any | immigration json-file |
 | `Gender` | string | Gender| male or female | join between immigration data and metaGender |
-| `Age` | string | Age of the person on 31st December | 0- 105 in years | join between immigration data and metaAge |
+| `Age` | integer | Age of the person on 31st December | 0- 105 | join between immigration data and metaAge |
 | `MaritalStatus` | string | Marital status  | unmarried, married, remarried or divorced | join between immigration data and metaMarital |
 | `Country` | string | Country of Birth of the immigrant | any | join between immigration data , MetaCountry and Landcountry |
 | `Period` | integer | Year in which the immigration took place | any, current input data from 2018- 2020  | join between immigration data and metaPeriod |
@@ -178,6 +178,7 @@ Dimension immigration table
 - In the folder "WorldHappinessReport": csv-files with the World Happiness Report data per year
 - In the folder "input_other": csv-file with the immigration meta data, csv-file with the translation information for country from Dutch to English
 - etl.py: file with the ETL pipeline
+- Capstone_Results: Jupyter notebook with some analysis to show that the chosen data model is suitable to answer the type of questions outlined in the project summary
 - config.cfg: file in which to enter your AWS access key ID and secret access key
 - Capstone_Project_YL.ipynb: Jupyter notebook that was mainly used to assess the data and to test the cleaning that was all later compiled into the etl.py. The notebook is not needed to build the data model.
 - README.md: this readme file
