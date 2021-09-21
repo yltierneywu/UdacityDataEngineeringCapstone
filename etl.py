@@ -110,7 +110,8 @@ def load_clean_imm_meta_data(meta_data, cleaned_data):
     df_meta_age_clean= df_meta_age.copy()
     df_meta_age_clean.rename(columns= {'Title' : 'Age', 'Key' : 'LeeftijdCode'}, inplace= True)
     df_meta_age_clean.Age.replace({'Totaal': 'Total'}, regex= True, inplace= True)
-    df_meta_age_clean.Age.replace({'jaar': 'years'}, regex= True, inplace= True)
+    df_meta_age_clean.Age.replace({'jaar': ''}, regex= True, inplace= True)
+    df_meta_age_clean.Age= df_meta_age_clean.Age.apply(lambda x: x.strip())
     df_meta_age_clean.Age.replace({'of ouder': 'or older'}, regex= True, inplace= True)
     df_meta_age_clean.Age.replace({'tot': 'to'}, regex= True, inplace= True)
  
@@ -188,12 +189,13 @@ def process_immigration_data(spark, cleaned_data, country_translation, output_da
         .join(meta_country, (immigration_table.Geboorteland== meta_country.LandCode)) \
         .join(meta_period, (immigration_table.Perioden== meta_period.PeriodeCode)) \
         .join(countries, (meta_country.Land== countries.Land_Dutch)) \
-        .select(['ID', 'Gender', 'Age', 'MaritalStatus', 'Country', 'Year', 'Immigratie_1'])
+        .select(['ID', 'Gender', 'Age', 'MaritalStatus', 'Country', 'Year', 'Immigratie_1', 'SingleCountry'])
     print('fact imm table: rows= ', fact_imm_table.count(), 'columns= ', len(fact_imm_table.columns))
     
     # Clean the fact table further
     fact_imm_table= fact_imm_table.withColumn('Immigratie_1', fact_imm_table['Immigratie_1'].cast('integer').alias('Immigratie_1'))
     fact_imm_table= fact_imm_table.withColumn('Year', fact_imm_table['Year'].cast('integer').alias('Year'))
+    fact_imm_table= fact_imm_table.withColumn('Age', fact_imm_table['Age'].cast('integer').alias('Age'))
     fact_imm_table= fact_imm_table.withColumnRenamed('Immigratie_1', 'ImmigrationVolume')
     
     fact_imm_table.printSchema()
@@ -306,7 +308,7 @@ def main():
     imm_input= 'Immigration_data/'
     cleaned_data= 'cleaned/'
     meta_data= 'input_other/03742_metadata.csv'
-    country_translation= 'input_other/countries_translation.csv'
+    country_translation= 'input_other/countries_translation_.csv'
     happiness_path= 'WorldHappinessReport/'
     output_data = "s3a://ylwbucket2/"
      
